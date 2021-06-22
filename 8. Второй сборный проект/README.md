@@ -28,3 +28,15 @@
 •	output — параметры продукта <br>
 •	state — параметры, характеризующие текущее состояние этапа <br>
 •	calculation — расчётные характеристики <br>
+- Параметры этапов:
+• air amount — объём воздуха <br>
+•	fluid levels — уровень жидкости <br>
+•	feed size — размер гранул сырья <br>
+•	feed rate — скорость подачи <br>
+## Используемые инструменты: 
+- pandas
+- numpy
+- sklearn
+- scipy
+- matplotlib
+- seaborn
