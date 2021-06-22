@@ -26,3 +26,8 @@
 - IsActiveMember - активность клиента
 - EstimatedSalary - предполагаемая заработная плата 
 - Exited - факт ухода клиента 
+## Используемые инструменты: 
+- pandas
+- sklearn
+- matplotlib
+- seaborn
